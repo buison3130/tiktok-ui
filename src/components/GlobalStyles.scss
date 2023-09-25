@@ -6,6 +6,8 @@
     --black: #000;
     --white: #fff;
     --text-color: #333;
+
+    --defaul-layout-horizontal-spacer: 24px;
 }
 
 * {
@@ -35,3 +37,5 @@ input,
 a[href] {
     color: var(--text-color);
 }
+
+// custom tippy tooltip
